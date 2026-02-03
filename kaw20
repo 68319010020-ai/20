@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ประวัติส่วนตัว</title>
+</head>
+<body>
+
+    <h1>ชื่อ: พัชรีพร  พานไธสง</h1>
+
+    <h2>ติดต่อ</h2>
+    <p>
+        Email: somchai@example.com <br>
+        โทร: 081-234-5678
+    </p>
+
+</body>
+</html>
