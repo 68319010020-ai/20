@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>พัชรีพร พานไธสง</h1>
+        <p>Web Developer | Programmer</p>
+    </header>
+
+    <section>
+        <h2>ติดต่อ</h2>
+        <p>
+            Email: somchai@example.com<br>
+            โทร: 081-234-5678
+        </p>
+    </section>
+
+    <footer>
+        <hr>
+        <p>© 2026 Somchai Jaidee</p>
+    </footer>
